@@ -1,22 +1,15 @@
 ### Hi there 👋
 
+![Deagwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=deagwon97&show_icons=true&theme=default)
+
+- 🔭 I’m currently working on Jayeonsoft
+- 📫 How to reach me: azaz09112@gmail.com
 
 
-<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>NGINX</title><path d="M12 0L1.605 6v12L12 24l10.395-6V6L12 0zm6 16.59c0 .705-.646 1.29-1.529 1.29-.631 0-1.351-.255-1.801-.81l-6-7.141v6.66c0 .721-.57 1.29-1.274 1.29H7.32c-.721 0-1.29-.6-1.29-1.29V7.41c0-.705.63-1.29 1.5-1.29.646 0 1.38.255 1.83.81l5.97 7.141V7.41c0-.721.6-1.29 1.29-1.29h.075c.72 0 1.29.6 1.29 1.29v9.18H18z"/></svg>
-<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Django</title><path d="M11.146 0h3.924v18.166c-2.013.382-3.491.535-5.096.535-4.791 0-7.288-2.166-7.288-6.32 0-4.002 2.65-6.6 6.753-6.6.637 0 1.121.05 1.707.203zm0 9.143a3.894 3.894 0 00-1.325-.204c-1.988 0-3.134 1.223-3.134 3.365 0 2.09 1.096 3.236 3.109 3.236.433 0 .79-.025 1.35-.102V9.142zM21.314 6.06v9.098c0 3.134-.229 4.638-.917 5.937-.637 1.249-1.478 2.039-3.211 2.905l-3.644-1.733c1.733-.815 2.574-1.53 3.109-2.625.561-1.121.739-2.421.739-5.835V6.059h3.924zM17.39.021h3.924v4.026H17.39z"/></svg>
-
-
-<!--
-**deagwon97/deagwon97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Type            | Date                       | Content                                                                                                  | Organization |
+|-----------------|----------------------------|----------------------------------------------------------------------------------------------------------|--------------|
+| Data Science    | 2020 October ~ 2021 April  |                                                                                                          | Dacon        |
+| Education       | 2020 November              | 데이콘 스쿨 천체 유형 분류 대회 [심화반] 강사                                                            | Dacon        |
+| Education       | 2020 December(3 days)      | 하나카드 데이터 해커톤 전임 강사                                                                         | Dacon        |
+| AI Development  | 2020 November ~ 2021 April | 2020년도 인공지능 학습용 데이터 구축 사업 [68번 과제]  한국인 지방 및 근육량 AI데이터 인공지능 모델 개발 | Dacon        |
+| Web Development | 2021 May ~                 | Flask, Django Web api 개발                                                                               | Jayeonsoft   |
