@@ -1,4 +1,23 @@
-![Deagwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=deagwon97&show_icons=true&theme=default)
+<div style="display: flex"> 
+ <div style="width: 40%;">
+  <p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
+  </p>
+  <p align="left">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/></a>
+  </p>
+  <p align="left"><img src="https://img.shields.io/badge/Dajngo-092E20?style=flat-square&logo=django&logoColor=white"/></a><img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=Celery&logoColor=white"/></a><img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/></a></p>
+  <p align="left">
+    <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=Nginx&logoColor=white"/></a><img src="https://img.shields.io/badge/Let's Encrypt-003A70?style=flat-square&logo=letsencrypt&logoColor=white"/></a>
+  </p>
+  </div>
+  <div style="width: 60%;">
+    <p align="right">
+      <img src="https://github-readme-stats.vercel.app/api?username=deagwon97&show_icons=true&theme=default"/></a>
+    </p>
+  </div>
+</div>
 
 - 🔭 Career
 
