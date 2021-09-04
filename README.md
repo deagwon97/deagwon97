@@ -1,6 +1,30 @@
-<div align="center">
-    <img src="https://github.com/deagwon97/deagwon97/blob/main/header.svg" width="750" height="250" alt="css-in-readme">
+<div> 
+<div class="left_item" >
+  <p align="left">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=Docker&amp;logoColor=white"/>
+  </p>
+  <p align="left">
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&amp;logo=pytorch&amp;logoColor=white"/>
+    <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&amp;logo=tensorflow&amp;logoColor=white"/>
+  </p>
+  <p align="left">
+    <img src="https://img.shields.io/badge/Dajngo-092E20?style=flat-square&amp;logo=django&amp;logoColor=white"/>
+    <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&amp;logo=Celery&amp;logoColor=white"/>
+    <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&amp;logo=Redis&amp;logoColor=white"/>
+  </p>
+  <p align="left">
+    <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&amp;logo=Nginx&amp;logoColor=white"/>
+    <img src="https://img.shields.io/badge/Let's Encrypt-003A70?style=flat-square&amp;logo=letsencrypt&amp;logoColor=white"/>
+  </p>
 </div>
+<div class="right_item">
+  <p align="left">
+    <img src="https://github-readme-stats.vercel.app/api?username=deagwon97&amp;show_icons=true&amp;theme=default"/>
+  </p>
+</div>
+</div>
+
+
 
 - 🔭 Career
 
