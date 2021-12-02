@@ -9,19 +9,6 @@
     <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&amp;logo=tensorflow&amp;logoColor=white"/>
     <img src="https://img.shields.io/badge/Scikit learn-F7931E?style=flat-square&amp;logo=Scikitlearn&amp;logoColor=black"/>
   </p>
-  <p align="left">
-    <img src="https://img.shields.io/badge/Dajngo-092E20?style=flat-square&amp;logo=django&amp;logoColor=white"/>
-    <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&amp;logo=Celery&amp;logoColor=white"/>
-    <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&amp;logo=Redis&amp;logoColor=white"/>
-  </p>
-  <p align="left">
-    <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&amp;logo=Nginx&amp;logoColor=white"/>
-    <img src="https://img.shields.io/badge/Let's Encrypt-003A70?style=flat-square&amp;logo=letsencrypt&amp;logoColor=white"/>
-  </p>
-  <p align="left">
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&amp;logo=MySQL&amp;logoColor=white"/>
-    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&amp;logo=PostgreSQL&amp;logoColor=white"/>
-  </p>
 </div>
 <div class="right_item">
   <p align="left">
