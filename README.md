@@ -11,9 +11,9 @@
   </p>
 </div>
 <div class="right_item">
-  <p align="left">
+  <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=deagwon97&amp;show_icons=true&amp;theme=default"/>
-  </p>
+  </div>
 </div>
 </div>
 
