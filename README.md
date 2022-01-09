@@ -1,15 +1,4 @@
-<div> 
-<div class="left_item" >
-  <p align="left">
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=Docker&amp;logoColor=white"/>
-    <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&amp;logo=Jenkins&amp;logoColor=black"/>
-  </p>
-  <p align="left">
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&amp;logo=pytorch&amp;logoColor=white"/>
-    <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&amp;logo=tensorflow&amp;logoColor=white"/>
-    <img src="https://img.shields.io/badge/Scikit learn-F7931E?style=flat-square&amp;logo=Scikitlearn&amp;logoColor=black"/>
-  </p>
-</div>
+
 <div class="right_item">
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=deagwon97&amp;show_icons=true&amp;theme=default"/>
