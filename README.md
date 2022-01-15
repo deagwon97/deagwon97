@@ -1,7 +1,7 @@
 
 <div class="right_item">
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=deagwon97&amp;show_icons=true&amp;theme=default"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=deagwon97&amp;show_icons=true&amp;theme=default">
   </div>
 </div>
 </div>
