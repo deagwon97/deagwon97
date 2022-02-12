@@ -17,4 +17,3 @@
 I'm interested in DevOps and DeepLearnging.
 
 - 📫 How to reach me: azaz09112@gmail.com
-- Home Page : https://deagwon.com
