@@ -1,2 +1,2 @@
-- 📫 How to reach me: azaz09112@gmail.com
-- blog: <a href="https://deagwon.com">https://deagwon.com</a>
+- email: azaz09112@gmail.com
+-  blog: <a href="https://deagwon.com">https://deagwon.com</a>
