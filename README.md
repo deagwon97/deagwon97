@@ -1,2 +1,2 @@
 - Email: azaz09112@gmail.com
--  Blog v2: <a href="https://deagwon.com">https://v2.deagwon.com</a>
+-  Blog v2: <a href="https://deagwon.com">https://deagwon.com</a>
