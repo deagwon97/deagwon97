@@ -5,6 +5,6 @@
 ### Skills
 Kuberntes, Docker, Slurm, Linux Bash, Typescript/Javascript, Go, Python, SQL
 
-### Contect
+### Contact
 - email: azaz09112@gmail.com
 - blog: <a href="https://deagwon.com">https://deagwon.com</a>
