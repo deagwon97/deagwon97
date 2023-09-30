@@ -3,7 +3,7 @@
 웹, 리눅스, 데브옵스, 인공지능 등 다양한 분야를 공부하고있는 개발자입니다.
 
 ### Skills
-Kuberntes, Docker, Slurm, Linux Bash, Typescript/Javascript, Go, Python, SQL
+Kuberntes, Docker, Slurm, Linux Bash, Go, Typescript/Javascript, Python, SQL
 
 ### Contact
 - email: azaz09112@gmail.com
