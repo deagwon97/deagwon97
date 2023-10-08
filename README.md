@@ -6,7 +6,7 @@
 Kuberntes, Docker, Slurm, Linux Bash, Go, Typescript/Javascript, Python, SQL
 
 ### Contact
-- email: azaz09112@gmail.com
+- azaz09112@gmail.com
 
 ### Blog
 - <a href="https://deagwon.com">https://deagwon.com</a>
