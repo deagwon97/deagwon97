@@ -1,10 +1,12 @@
 ### About Me
-안녕하세요.
-웹, 리눅스, 데브옵스, 인공지능 등 다양한 분야를 공부하고있는 개발자입니다.
+안녕하세요. 효율적인 시스템을 만들기 위해 고민하는 개발자 부대권입니다.  
+웹, 리눅스, 데브옵스, 인공지능 등 다양한 분야를 공부하고 있습니다.  
 
 ### Skills
 Kuberntes, Docker, Slurm, Linux Bash, Go, Typescript/Javascript, Python, SQL
 
 ### Contact
 - email: azaz09112@gmail.com
-- site: <a href="https://deagwon.com">https://deagwon.com</a>
+
+### Blog
+- <a href="https://deagwon.com">https://deagwon.com</a>
