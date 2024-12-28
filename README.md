@@ -8,5 +8,5 @@ Linux, Kuberntes, Docker, Go, Typescript/Javascript, Python, SQL
 ### Contact
 azaz09112@gmail.com
 
-### blog
+### Blog
 <a href="https://deagwon97.github.io/">deagwon97.github.io</a>
