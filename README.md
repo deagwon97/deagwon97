@@ -8,4 +8,4 @@ Linux, Kuberntes, Go, Javascript/Typescript, Python, SQL
 azaz09112@gmail.com
 
 ### Blog
-<a href="https://deagwon97.github.io/">deagwon97.github.io</a>
+<a href="https://deagwon.com/">deagwon.com</a>
